@@ -1,7 +1,7 @@
 package com.nttdata.git;
 
 /**
- * NTT Data - Formación.
+ * NTT Data - Formacion.
  * 
  * Ejemplo GIT
  * 
@@ -11,7 +11,7 @@ package com.nttdata.git;
 public class App {
 
 	/**
-	 * Método principal
+	 * Metodo principal
 	 * 
 	 * @param args
 	 */
@@ -19,6 +19,7 @@ public class App {
 
 		System.out.println("Hola NTT Data");
 		System.out.println("Hola Rama A");
+		System.out.println("Cambio desde Github");
 	}
 
 }
